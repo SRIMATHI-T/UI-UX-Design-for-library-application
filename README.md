@@ -1,6 +1,6 @@
 # 📚 UI-UX-Design-for-library-application
 
-This repository contains resources and designs for **BookNest**, a modern and minimalistic UI design concept for a digital library and book shopping application. The design is created using **Figma** and features a clean, user-friendly interface for book lovers, aiming to provide an elegant browsing and shopping experience.
+This repository contains resources and designs for **BookHub**, a modern and minimalistic UI design concept for a digital library and book shopping application. The design is created using **Figma** and features a clean, user-friendly interface for book lovers, aiming to provide an elegant browsing and shopping experience.
 
 ---
 
@@ -35,6 +35,11 @@ Place orders with ease through a step-by-step checkout flow and get order succes
 
 ---
 
+## BookHub -- Full Design View 🎨
+
+![T.php](https://github.com/user-attachments/assets/7e1187d5-522c-4650-9c99-4fc1310c0fb5)
+
+---
 ## 📱 UI Screens – Full Design View
 
 ### 🎉 Welcome Screen  
